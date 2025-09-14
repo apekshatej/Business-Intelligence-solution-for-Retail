@@ -1,0 +1,1 @@
+Developed an end-to-end Business Intelligence solution using Snowflake, SQL, and Tableau to identify performance gaps and recommend high-ROI market expansion strategies based on 180K+ transaction records. 
